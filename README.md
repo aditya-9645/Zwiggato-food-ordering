@@ -27,6 +27,5 @@ Zwiggato-food-ordering/
 │   └── data.json
 ├── package.json
 └── README.md
-
-app/: Contains the main application components, pages, and styles.
-server/: Holds the JSON file simulating backend data.
+- app/: Contains the main application components, pages, and styles.
+- server/: Holds the JSON file simulating backend data.
