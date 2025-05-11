@@ -17,10 +17,6 @@ Zwiggato is a responsive and interactive food ordering frontend application buil
 - Responsive Web Design Principles
 
 ## 📂 Project Structure
-Zwiggato-food-ordering/
-
-- app => components, pages, styles
-- server => data.json, package.json, README.md
 
 - app/: Contains the main application components, pages, and styles.
 - server/: Holds the JSON file simulating backend data.
