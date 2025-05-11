@@ -3,11 +3,11 @@ Zwiggato is a responsive and interactive food ordering frontend application buil
 
 ## 🚀 Features
 
-📦 Dynamic Data Rendering: Fetches and displays food items from a JSON-based backend.
-🎨 Styled Components: Utilizes styled-components for modular and maintainable styling.
-📱 Responsive Design: Ensures seamless experience across various devices and screen sizes.
-⚙️ State Management: Implements React's state and props for efficient data handling.
-🧩 Component-Based Architecture: Promotes reusability and cleaner code structure.
+-📦 Dynamic Data Rendering: Fetches and displays food items from a JSON-based backend.
+-🎨 Styled Components: Utilizes styled-components for modular and maintainable styling.
+-📱 Responsive Design: Ensures seamless experience across various devices and screen sizes.
+-⚙️ State Management: Implements React's state and props for efficient data handling.
+-🧩 Component-Based Architecture: Promotes reusability and cleaner code structure.
 
 ## 🛠️ Technologies Used
 React.js
