@@ -1,4 +1,5 @@
-🍽️ Zwiggato – Food Ordering App (Frontend)
+##🍽️ Zwiggato – Food Ordering App (Frontend)
+
 Zwiggato is a responsive and interactive food ordering frontend application built with React.js, JavaScript, CSS, and Styled-Components. It fetches data from a backend stored in JSON format and displays it through a user-friendly interface, simulating a real-world food delivery experience.
 
 🚀 Features
