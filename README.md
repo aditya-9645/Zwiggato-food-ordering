@@ -10,11 +10,11 @@ Zwiggato is a responsive and interactive food ordering frontend application buil
 - 🧩 Component-Based Architecture: Promotes reusability and cleaner code structure.
 
 ## 🛠️ Technologies Used
-React.js
-JavaScript (ES6+)
-CSS3
-Styled-Components
-Responsive Web Design Principles
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- Styled-Components
+- Responsive Web Design Principles
 
 ## 📂 Project Structure
 Zwiggato-food-ordering/
